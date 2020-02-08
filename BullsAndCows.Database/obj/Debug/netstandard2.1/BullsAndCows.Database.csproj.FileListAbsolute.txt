@@ -1,0 +1,16 @@
+E:\3213123\Cows\BullsAndCows.Database\bin\Debug\netstandard2.1\BullsAndCows.Database.deps.json
+E:\3213123\Cows\BullsAndCows.Database\bin\Debug\netstandard2.1\BullsAndCows.Database.dll
+E:\3213123\Cows\BullsAndCows.Database\bin\Debug\netstandard2.1\BullsAndCows.Database.pdb
+E:\3213123\Cows\BullsAndCows.Database\obj\Debug\netstandard2.1\BullsAndCows.Database.csprojAssemblyReference.cache
+E:\3213123\Cows\BullsAndCows.Database\obj\Debug\netstandard2.1\BullsAndCows.Database.AssemblyInfoInputs.cache
+E:\3213123\Cows\BullsAndCows.Database\obj\Debug\netstandard2.1\BullsAndCows.Database.AssemblyInfo.cs
+E:\3213123\Cows\BullsAndCows.Database\obj\Debug\netstandard2.1\BullsAndCows.Database.dll
+E:\3213123\Cows\BullsAndCows.Database\obj\Debug\netstandard2.1\BullsAndCows.Database.pdb
+G:\3213123\Cows\BullsAndCows.Database\bin\Debug\netstandard2.1\BullsAndCows.Database.deps.json
+G:\3213123\Cows\BullsAndCows.Database\bin\Debug\netstandard2.1\BullsAndCows.Database.dll
+G:\3213123\Cows\BullsAndCows.Database\bin\Debug\netstandard2.1\BullsAndCows.Database.pdb
+G:\3213123\Cows\BullsAndCows.Database\obj\Debug\netstandard2.1\BullsAndCows.Database.AssemblyInfoInputs.cache
+G:\3213123\Cows\BullsAndCows.Database\obj\Debug\netstandard2.1\BullsAndCows.Database.AssemblyInfo.cs
+G:\3213123\Cows\BullsAndCows.Database\obj\Debug\netstandard2.1\BullsAndCows.Database.dll
+G:\3213123\Cows\BullsAndCows.Database\obj\Debug\netstandard2.1\BullsAndCows.Database.pdb
+G:\3213123\Cows\BullsAndCows.Database\obj\Debug\netstandard2.1\BullsAndCows.Database.csprojAssemblyReference.cache
